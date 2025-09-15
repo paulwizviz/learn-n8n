@@ -1,6 +1,6 @@
 .DS_Store
 
-deployments/single/n8n-data
+deployments/docker/n8n-data
 
 .env
 .envrc
